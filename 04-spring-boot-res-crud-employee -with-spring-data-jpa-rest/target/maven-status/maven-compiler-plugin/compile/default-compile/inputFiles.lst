@@ -1,0 +1,6 @@
+C:\Users\mefat\OneDrive\Desktop\Spring-Projeler\04-spring-boot-rest-crud\04-spring-boot-res-crud-employee -with-spring-data-jpa-rest\src\main\java\com\luv2code\springboot\cruddemo\CruddemoApplication.java
+C:\Users\mefat\OneDrive\Desktop\Spring-Projeler\04-spring-boot-rest-crud\04-spring-boot-res-crud-employee -with-spring-data-jpa-rest\src\main\java\com\luv2code\springboot\cruddemo\dao\EmployeeRepository.java
+C:\Users\mefat\OneDrive\Desktop\Spring-Projeler\04-spring-boot-rest-crud\04-spring-boot-res-crud-employee -with-spring-data-jpa-rest\src\main\java\com\luv2code\springboot\cruddemo\entity\Employee.java
+C:\Users\mefat\OneDrive\Desktop\Spring-Projeler\04-spring-boot-rest-crud\04-spring-boot-res-crud-employee -with-spring-data-jpa-rest\src\main\java\com\luv2code\springboot\cruddemo\rest\EmployeeRestController.java
+C:\Users\mefat\OneDrive\Desktop\Spring-Projeler\04-spring-boot-rest-crud\04-spring-boot-res-crud-employee -with-spring-data-jpa-rest\src\main\java\com\luv2code\springboot\cruddemo\service\EmployeeService.java
+C:\Users\mefat\OneDrive\Desktop\Spring-Projeler\04-spring-boot-rest-crud\04-spring-boot-res-crud-employee -with-spring-data-jpa-rest\src\main\java\com\luv2code\springboot\cruddemo\service\EmployeeServiceImp.java
